@@ -92,19 +92,7 @@ To run this project locally, follow these steps:
 ### 5. **Location**
 ![Map View](./images/location.JPG)
 =======
-![Admin Panel Home](./images/home.jpg)
 
-### 2. **Profiles**
-![Add/Edit Profile Form](./images/add-edit-profile.png)
-
-### 3. **Admin Panel**
-![Profile List](./images/profile-list.png)
-
-### 4. **Profile**
-![Map View](./images/profile-location-map.png)
-
-### 5. **Location**
-![Map View](./images/profile-location-map.png)
 
 
 
